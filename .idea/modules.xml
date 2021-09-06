@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/blackBelt.iml" filepath="$PROJECT_DIR$/.idea/blackBelt.iml" />
       <module fileurl="file://$PROJECT_DIR$/comparable/comparable.iml" filepath="$PROJECT_DIR$/comparable/comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
     </modules>
   </component>
 </project>
